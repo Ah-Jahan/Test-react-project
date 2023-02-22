@@ -1,0 +1,21 @@
+.footer--container{
+    width: 317px;
+    height: 64px;
+    background-color: rgb(0, 42, 105);
+    padding: 3px;
+    align-items: center;
+    vertical-align:middle ;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    
+    
+  }
+  .footer--image{
+    height: 30px;
+    filter: brightness(2);
+    margin:10px;
+  }
+  .footer--items{
+    margin: 2px 55px;
+    
+  }
